@@ -1,0 +1,3 @@
+[submodule "cours"]
+	path = cours
+	url = git@github.com:g-roch/heig-res-cours.git
