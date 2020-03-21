@@ -4,3 +4,6 @@
 [submodule "lab/lab00-Chill"]
 	path = lab/lab00-Chill
 	url = git@github.com:g-roch/heig-res-lab00-Chill.git
+[submodule "lab/lab01-Java-IO"]
+	path = lab/lab01-Java-IO
+	url = git@github.com:g-roch/heig-res-lab01-Java-IO.git
