@@ -1,3 +1,6 @@
 [submodule "cours"]
 	path = cours
 	url = git@github.com:g-roch/heig-res-cours.git
+[submodule "lab/lab00-Chill"]
+	path = lab/lab00-Chill
+	url = git@github.com:g-roch/heig-res-lab00-Chill.git
