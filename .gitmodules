@@ -9,4 +9,4 @@
 	url = git@github.com:g-roch/heig-res-lab01-Java-IO.git
 [submodule "exo/exo01-Protocol-Design"]
 	path = exo/exo01-Protocol-Design
-	url = git@github.com:g-roch/hei-res-exo01-Protocol-Design.git
+	url = git@github.com:g-roch/heig-res-exo01-Protocol-Design.git
